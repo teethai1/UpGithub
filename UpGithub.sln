@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpGithub", "UpGithub\UpGithub.csproj", "{0DD6E637-5892-4F18-9766-7B0D9749AEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD6E637-5892-4F18-9766-7B0D9749AEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD6E637-5892-4F18-9766-7B0D9749AEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD6E637-5892-4F18-9766-7B0D9749AEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD6E637-5892-4F18-9766-7B0D9749AEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131A15F3-5563-4138-86ED-C7DA44168580}
+	EndGlobalSection
+EndGlobal
